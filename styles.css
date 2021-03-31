@@ -1,0 +1,53 @@
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#char3, #char4{
+    width: 190px;
+    height: 270px;
+
+}
+#char4{
+    position: absolute;
+    left: 600px;
+    top: 500px
+}
+#char3{
+    position: absolute;
+    left: 1000px;
+    top: 500px;
+}
+#char3run{
+    height: 250px;
+    position: absolute;
+    left: 20px ;
+    top: 650px ;
+}
+#char4run{
+    height: 250px;
+    position: absolute;
+    left: 20px ;
+    top: 700px ;
+}
+#lights{
+    position: absolute;
+    left: 1000px;
+    top: 40px;
+    color: white;
+}
+
+#char3victory{
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    left: 1500px;
+    top: 600px;
+}
+#char4victory{
+    height: 500px;
+    width: auto;
+    position: absolute;
+    left: 1300px;
+    top: 400px;
+}
